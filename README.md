@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# Este repositorio es para IMWEB
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Aquí se encontrara el trabajo diario y proyectos relacionados con esta asignatura.
